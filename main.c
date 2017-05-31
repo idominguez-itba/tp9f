@@ -18,7 +18,7 @@
 #define AUDIO_1 "r2d2.wav"
 #define AUDIO_2 "sable.wav"
 
-#define TITULO  "TP9 VERSION STAR-WARS"
+#define TITULO  "TP9 VERSION STAR-WARS  - https://github.com/idominguez-itba/tp9f"
 
 
 
